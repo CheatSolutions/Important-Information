@@ -19,7 +19,7 @@ Same applies for most plugins that don't use the standard &#123456 or #123456
 
 ### Server:
 ```{online} Amount of server players currently online
-{server:name} Server’s name gathered from Spartan’s configuration
+{server:name} Server’s name gathered from Vacan’s configuration
 {server:version} Server’s version gathered from the server itself
 {motd} Server list description gathered from the your server’s server.properties file
 Plugin:
@@ -63,8 +63,8 @@ Messages:
 ```
 ### Detections:
 ```
-{detection} A check’s custom name gathered from Spartan’s configuration
-{detection:real} A check’s real name set by the Spartan’s developer/s
+{detection} A check’s custom name gathered from Vacan’s configuration
+{detection:real} A check’s real name set by the Vacan’s developer/s
 {detection:silent} True/False depending if a check is silent, thus allowing it to prevent player interactions
 {detection:punish} True/False depending if a check can and is configured to punish with commands
 ```
