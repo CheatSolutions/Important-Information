@@ -8,86 +8,86 @@ You can hover above commands in-game to get additional descriptions about their 
 
 ## Command List
 
-``/spartan menu`` opens the main gui menu.<br>
-Permissionss: spartan.info, spartan.manage
+``/vacan menu`` opens the main gui menu.<br>
+Permissionss: vacan.info, vacan.manage
 
-``/spartan panic`` enables silent mode and disables punishments for all checks.<br>
-Permissions: spartan.manage
+``/vacan panic`` enables silent mode and disables punishments for all checks.<br>
+Permissions: vacan.manage
 
-``/spartan reload`` reloads spartan's configuration.<br>
-Permission: spartan.reload
+``/vacan reload`` reloads Vacan's configuration.<br>
+Permission: vacan.reload
 
-``/spartan notifications [ticks-frequency]`` toggles the notification system.<br>
-Permission: spartan.notifications
+``/vacan notifications [ticks-frequency]`` toggles the notification system.<br>
+Permission: vacan.notifications
 
-``/spartan verbose`` toggles all notifications instead of just ones with high hacking probability.<br>
-Permission: spartan.notifications
+``/vacan verbose`` toggles all notifications instead of just ones with high hacking probability.<br>
+Permission: vacan.notifications
 
-``/spartan info [player]`` opens a GUI menu with a player's violations info.<br>
-Permission: spartan.info
+``/vacan info [player]`` opens a GUI menu with a player's violations info.<br>
+Permission: vacan.info
 
-``/spartan kick <player> <reason>`` kicks a player and broadcasts a message.<br>
-Permission: spartan.kick
+``/vacan kick <player> <reason>`` kicks a player and broadcasts a message.<br>
+Permission: vacan.kick
 
-``/spartan toggle <check>`` toggles a certain check.<br>
-Permission: spartan.manage
+``/vacan toggle <check>`` toggles a certain check.<br>
+Permission: vacan.manage
 
-``/spartan toggle-prevention <check>`` toggles a certain check's preventions by making it silent.<br>
-Permission: spartan.manage
+``/vacan toggle-prevention <check>`` toggles a certain check's preventions by making it silent.<br>
+Permission: vacan.manage
 
-``/spartan toggle-punishment <check>`` toggles a certain check's punishments.<br>
-Permission: spartan.manage
+``/vacan toggle-punishment <check>`` toggles a certain check's punishments.<br>
+Permission: vacan.manage
 
-``/spartan bypass <player> <check> <seconds>`` allows a player to bypass a check for a certain amount of time.<br>
-Permission: spartan.use_bypass
+``/vacan bypass <player> <check> <seconds>`` allows a player to bypass a check for a certain amount of time.<br>
+Permission: vacan.use_bypass
 
-``/spartan warn <player> <reason>`` warns a player with a reason.<br>
-Permission: spartan.warn
+``/vacan warn <player> <reason>`` warns a player with a reason.<br>
+Permission: vacan.warn
 
-``/spartan wave <add/remove/clear/run/list> [player] [command]`` allows you to interact with the wave punishment system.<br>
-Permission: spartan.wave
+``/vacan wave <add/remove/clear/run/list> [player] [command]`` allows you to interact with the wave punishment system.<br>
+Permission: vacan.wave
 
-``/spartan proxy-command <command>`` sends a command to the proxy/network of servers. (Example: BungeeCord) [May not always work]<br>
-Permissions: spartan.admin, spartan.*
+``/vacan proxy-command <command>`` sends a command to the proxy/network of servers. (Example: BungeeCord) [May not always work]<br>
+Permissions: vacan.admin, vacan.*
 
 ```
-/spartan <player> if <condition> equals <result> do <command> executes a conditional command.
-/spartan <player> if <condition> contains <result> do <command> executes a conditional command.
-/spartan <player> if <number> is-less-than <result> do <command> executes a conditional command.
-/spartan <player> if <number> is-greater-than <result> do <command> executes a conditional command.
+/vacan <player> if <condition> equals <result> do <command> executes a conditional command.
+/vacan <player> if <condition> contains <result> do <command> executes a conditional command.
+/vacan <player> if <number> is-less-than <result> do <command> executes a conditional command.
+/vacan <player> if <number> is-greater-than <result> do <command> executes a conditional command.
 ```
-Permission: spartan.condition
+Permission: vacan.condition
 
 
 ## Additional Permissions
-spartan.bypass allows you to bypass all checks. (USE THE settings.yml op_bypass OPTION WHEN OP)
-spartan.bypass.(check) allows you to bypass a certain check.
-spartan.admin, spartan.* gives you all permissions except the bypass ones. (BE CAREFUL WHEN OP)
-spartan.bedrock considers a player as a Bedrock client instead of Java client. (BE CAREFUL WHEN OP)
-spartan.punishment allows you to bypass the configured punishments of all checks.
+vacan.bypass allows you to bypass all checks. (USE THE settings.yml op_bypass OPTION WHEN OP)
+vacan.bypass.(check) allows you to bypass a certain check.
+vacan.admin, vacan.* gives you all permissions except the bypass ones. (BE CAREFUL WHEN OP)
+vacan.bedrock considers a player as a Bedrock client instead of Java client. (BE CAREFUL WHEN OP)
+vacan.punishment allows you to bypass the configured punishments of all checks.
 
 
 ## Hovering Above Commands
-Spartan supports interactive commands. When you hover above a command, Spartan will create a small hovering box that explains in text what the command does and examples of how you can use it.
+Vacan supports interactive commands. When you hover above a command, Vacan will create a small hovering box that explains in text what the command does and examples of how you can use it.
 
 
 ## Pressing TAB
-Spartan supports command auto-complete. To trigger it, type /spartan and press the button TAB on your keyboard. This functionality takes part as a list of recommendations to save you time.
+Vacan supports command auto-complete. To trigger it, type /vacan and press the button TAB on your keyboard. This functionality takes part as a list of recommendations to save you time.
 
 
 ## Permissions that judge Staff Rank / Ranks
 ```
-spartan.admin
-spartan.*
-spartan.info
-spartan.manage
-spartan.reload
-spartan.notifications
-spartan.kick
-spartan.use_bypass
-spartan.warn
-spartan.wave
-spartan.condition
+vacan.admin
+vacan.*
+vacan.info
+vacan.manage
+vacan.reload
+vacan.notifications
+vacan.kick
+vacan.use_bypass
+vacan.warn
+vacan.wave
+vacan.condition
 ```
 
 ## Command Proxy-Transfer Plugins (BungeeCord, Velocity, WaterFall)
