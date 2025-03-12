@@ -14,8 +14,8 @@ Speed: Check Category
       java: true # True if you want the check to be considered in the punishments algorithm
       bedrock: true # True if you want the check to be considered in the punishments algorithm
     commands: # Commands execute all together and in order anytime a player is found to be cheating
-      '1': spartan warn {player} You have been detected for using hack modules # First command executed
-      '2': spartan kick {player} You were kicked for using: {detections} # Second command executed
+      '1': vacan warn {player} You have been detected for using hack modules # First command executed
+      '2': vacan kick {player} You were kicked for using: {detections} # Second command executed
       '3': '' # Third command not set
       '4': '' # Fourth command not set
       '5': '' # Fifth command not set
@@ -31,4 +31,4 @@ Speed: Check Category
 ```
 (There are more options available, the above is an example of the configuration)
 ## Canceled Server Events
-When a Minecraft server’s events are canceled, it is unlikely our Minecraft plugins will measure this event until it’s allowed again. For example, when the PlayerMoveEvent is canceled on Bukkit-based servers, a player cannot move on the server, leading to the Spartan anti-cheat to ignore checking the player for hack modules.
+When a Minecraft server’s events are canceled, it is unlikely our Minecraft plugins will measure this event until it’s allowed again. For example, when the PlayerMoveEvent is canceled on Bukkit-based servers, a player cannot move on the server, leading to the Vacan anti-cheat to ignore checking the player for hack modules.
