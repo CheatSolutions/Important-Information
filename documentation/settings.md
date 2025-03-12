@@ -5,7 +5,7 @@
 Punishments: 
   broadcast_on_punishment: true # Let everyone know when someone is punished via the chat
 Logs:
-  log_file: true # Log important information in Spartan’s log directory/folder in individual files
+  log_file: true # Log important information in Vacan’s log directory/folder in individual files
   log_console: true # Log important information in the console and logs of your server
 Notifications:
   awareness_notifications: true # Be notified about important functionalities of the plugin
@@ -15,11 +15,11 @@ Notifications:
 Important:
   max_supported_player_latency: 5000 # Allow the plugin to check the player’s performance and prevent instabilities
   op_bypass: false # Bypass the detections if you are a server operator
-  bedrock_client_permission: false # Enables the permission “spartan.bedrock” to consider Java clients as Bedrock clients.
+  bedrock_client_permission: false # Enables the permission “vacan.bedrock” to consider Java clients as Bedrock clients.
   enable_developer_api: true # Toggles on/off the plugin’s code parts that can be controlled by other plugins
   bedrock_player_prefix: '.' # The character needed in the start of a player’s name to identify them as a bedrock player
-  enable_npc: true # Allow the plugin to spawn a NPC player when you run the command /spartan
-  enable_watermark: true # Allow the plugin to send messages to players that this server is protected by Spartan
+  enable_npc: true # Allow the plugin to spawn a NPC player when you run the command /vacan
+  enable_watermark: true # Allow the plugin to send messages to players that this server is protected by Vacan
   server_name: specify server name # Put the same unique name for each server you have put in your proxy configuration
 Detections:
   damage_on_detection: false # Create artificial fall damage when a player is teleported by a detection
