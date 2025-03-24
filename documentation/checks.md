@@ -2,7 +2,7 @@
 
 ## checks.yml Example
 ```
-Speed: Check Category
+irregular-movements: Check Category
   enabled:
     java: true # True if you want the check to detect Java players for using hack modules
     bedrock: true # True if you want the check to detect Bedrock players for using hack modules
