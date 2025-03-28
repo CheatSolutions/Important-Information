@@ -34,6 +34,7 @@ Derp/NoHead
 FastEat
 Food Sprint
 No Elytra-Related Checking
+Ground Spoof (Only Java Edition)
 ```
 
 ## World
@@ -69,11 +70,6 @@ ExtraInventory
 ## Exploits
 ```
 Back Track
-Long Sign Length
 Movement Spoof
 Elytra-less Gliding
-Chat Length Bypass
-Dead Player Chat
-Fast Server Flying
-Ground Spoof (Only Java Edition)
 ```
