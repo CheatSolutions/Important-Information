@@ -64,7 +64,6 @@ InstantDrop
 AutoLoot
 PortalInventory
 ExtraInventory
-AutoTotem
 ```
 
 ## Exploits
