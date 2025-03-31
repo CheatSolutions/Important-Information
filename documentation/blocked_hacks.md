@@ -47,7 +47,7 @@ BlockReach
 Liquids
 Scaffold
 Tower
-X-Ray (Uses Statistics, Notificaties Only)
+X-Ray (Statistics-based)
 GhostHand
 FastBreak/Nuker (1.13+ Servers)
 BedF@cker
