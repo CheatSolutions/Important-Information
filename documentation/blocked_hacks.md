@@ -12,6 +12,7 @@ AntiKnockback/Velocity
 Reach
 Criticals
 AutoClicker
+Back Track
 ```
 
 ## Movement
@@ -27,14 +28,16 @@ NoFall
 Spider/WallClimb
 Jesus/WaterWalk
 FastLadder/FastClimb
-Timer (Only Java Edition)
-Blink (Only Java Edition)
+Timer
+Blink
 Step
 Derp/NoHead
 FastEat
 Food Sprint
-No Elytra-Related Checking
-Ground Spoof (Only Java Edition)
+Ground Spoof
+Movement Spoof
+Elytra (Very basic)
+Entity (Very basic)
 ```
 
 ## World
@@ -50,26 +53,15 @@ FastBreak/Nuker (1.13+ Servers)
 BedF@cker
 ```
 
-## Player
+## Miscellaneous
 ```
 FastEat
 Regen/FastHeal
 NoSwing/NoAnimation
 AutoRespawn
-```
-
-## Inventory
-```
 InventoryMove
 InstantDrop
 AutoLoot
 PortalInventory
 ExtraInventory
-```
-
-## Exploits
-```
-Back Track
-Movement Spoof
-Elytra-less Gliding
 ```
