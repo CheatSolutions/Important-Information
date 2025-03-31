@@ -8,7 +8,7 @@
 * Transaction cases, disputes, chargebacks that are fought and lost by the other party may cause their software access to not return to them.
 * Our offers, software contents and duration of purchases are subject to change at any moment.
 * Offer claimed percentages or estimates may be slightly differ to appear more appealing or less confusing.
-* Content such as videos, images, GIFs or similar are treated as advertisements. At any moment in time, they can become outdated but not updated or removed in time.
+* Content such as videos, images, GIFs can become outdated and not removed at all or in time.
 * Pirated copies must be reported quickly to prevent further damage. If not followed and we become aware, the responsible license may be suspended temporarily or permanently.
 * Our software developed to run Bukkit API through Spigot, Bukkit, Paper, Purpur, Airplane and Folia (Experimental). Any other server types based on the Bukkit API can work but are not officially supported.
 * No full or partial refunds, you have been warned.
