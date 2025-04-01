@@ -1,7 +1,7 @@
 # <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
 # LIST OF BLOCKED HACKS
 
-## Combat
+## Combat (NOT Installed by default)
 ```
 Aura
 Aimbot
@@ -16,7 +16,7 @@ AutoClicker
 Back Track
 ```
 
-## Movement
+## Movement (NOT Installed by default)
 ```
 Flight
 Glide
@@ -41,7 +41,7 @@ Elytra (Very basic)
 Entity (Very basic)
 ```
 
-## World
+## World (NOT Installed by default)
 ```
 FastPlace
 BlockReach
@@ -54,7 +54,7 @@ FastBreak/Nuker (1.13+ Servers)
 BedF@cker
 ```
 
-## Miscellaneous
+## Miscellaneous (Installed by default)
 ```
 FastEat
 Regen/FastHeal
