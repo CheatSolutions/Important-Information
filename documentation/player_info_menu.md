@@ -1,4 +1,4 @@
-# <a href="https://www.paypal.com/ncp/payment/EVXKXBD6M5XPC">Get Java & Bedrock Edition in one jar</a>
+# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
 ## Below is a list of reasons you will see when checking a player using the “Player Info” inventory menu. To use this inventory menu, execute the command “/vacan info” to check yourself and “/vacan info playerName” to check someone else.
 
 ### Player has permission bypass:
