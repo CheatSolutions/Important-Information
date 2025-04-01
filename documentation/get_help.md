@@ -1,4 +1,4 @@
-# <a href="https://www.paypal.com/ncp/payment/EVXKXBD6M5XPC">Get Java & Bedrock Edition in one jar</a>
+# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
 
 ## False Detections / False Positives
 ```
