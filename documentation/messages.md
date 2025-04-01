@@ -1,4 +1,4 @@
-# <a href="https://vagdedes.com/patreon">Get Java & Bedrock Edition in one jar</a>
+# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
 
 ## messages.yml Example
 ```
