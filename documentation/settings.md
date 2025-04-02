@@ -10,6 +10,7 @@ Logs:
 Purchases:
   paypal_email: '' # Used for retrieving any purchases that load by the jar
   patreon_full_name: '' # Used for retrieving any purchases that load by the jar
+  builtbybit_user_url: '' # Used for retrieving any purchases that load by the jar
 Notifications:
   awareness_notifications: true # Be notified about important functionalities of the plugin
   individual_only_notifications: false # Be notified only about your own detections and not of other players
