@@ -4,7 +4,7 @@
 #### CPU is best to be released in the last 5 years, software improvement drives hardware improvement and viceversa.
 ## RAM for Spartan (Random Access Memory)
 #### 384MB+, player data is constantly being analyzed and stored.
-## Storage for Spartan
+## Storage for Vacan
 #### 2GB+ per month that the plugin is fully used.
 ## Server TPS (Ticks Per Second)
 ### 19+ out of 20 maximally possible in a server
