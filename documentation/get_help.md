@@ -31,14 +31,6 @@ Step 4: If all previous steps did not help identify hacks listed in the URL http
 ## Console Error
 Report the first occurrence of the console error or one that is long enough to prompt the developer on where specifically the issue is.
 
-## How to Download and Install
-```
-Step 1: Navigate to the #my-account Discord text-channel channel where you will find a Discord Application which you use to register an account or log in if you already have one.
-```
-```
-Step 2: Once logged in, you can select a product through the list of options and a download button should be on top of the reply you will receive from our Discord Application.
-```
-
 ## Account URL Example
 An account URL contains the platform’s ID and username associated with you which helps us track your purchases and synchronize them in our system so they are available to you at any time.<p>
 Example:<br>
