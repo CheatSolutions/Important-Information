@@ -9,7 +9,7 @@
 5. Delete everything in the messages.yml file.
 6. Paste the previously copied data to the now empty messages.yml file.
 7. Save the file.
-8. Run the command “/spartan reload” and you are all set.
+8. Run the command “/vacan reload” and you are all set.
 ```
 
 ## Simplified Chinese:
