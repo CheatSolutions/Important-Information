@@ -13,7 +13,7 @@ AntiKnockback/Velocity
 Reach
 Criticals
 AutoClicker
-Back Track
+BackTrack
 ```
 
 ## Movement (NOT Installed by default)
