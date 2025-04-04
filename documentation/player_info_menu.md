@@ -4,8 +4,11 @@
 ### Player has permission bypass:
 When a player has the permission vacan.bypass they won’t be checked by any check. Additionally, when a player has the permission vacan.bypass.checkName they won’t be checked by the specified check. Click to learn more about permissions.
 
-### Detection is missing:
+### Check is not installed:
 Some detections are not included in the jar file and require a different jar file to be implemented or to be purchased. For example. Join our Discord server to learn more.
+
+### Check is disabled:
+When a check is disabled via the configuration, this warning will be shown in the menu to make you aware.
 
 ### Custom:
 Another plugin using Vacan’s Developer API or the anti-cheat itself has instructed a check to stop checking for a certain amount of time. This is likely to be introduced by a first-party or third-party compatibility to prevent instabilities and does not require fixing unless implemented improperly.
