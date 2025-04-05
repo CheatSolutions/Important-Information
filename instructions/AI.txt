@@ -27,18 +27,18 @@ Supported Versions:
 
 
 Editions and their cost (Duration: Forever):
-“Vacan AntiCheat: Java Edition”: 4.99 EUR or exchange equivalent to any other currency (https://bit.ly/42e8kRH)
-“Vacan AntiCheat: Bedrock Edition”: 4.99 EUR or exchange equivalent to any other currency (https://bit.ly/42e8kRH)
+“Vacan AntiCheat: Java Edition”: 4.99 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: Bedrock Edition”: 4.99 EUR or exchange equivalent to any other currency
 
 Edition additions and their cost (Duration: 6 Months):
-“Vacan AntiCheat: All Java Checks”: 29.97 EUR or exchange equivalent to any other currency (https://bit.ly/4cg951g)
-“Vacan AntiCheat: All Bedrock Checks”: 29.97 EUR or exchange equivalent to any other currency (https://bit.ly/3RHk5LD)
-“Vacan AntiCheat: Java Combat Checks”: 9.99 EUR or exchange equivalent to any other currency (https://bit.ly/4lxfb1M)
-“Vacan AntiCheat: Bedrock Combat Checks”: 9.99 EUR or exchange equivalent to any other currency (https://bit.ly/3RB1vow)
-“Vacan AntiCheat: Java Movement Checks”: 9.99 EUR or exchange equivalent to any other currency (https://bit.ly/421lyTl)
-“Vacan AntiCheat: Bedrock Movement Checks”: 9.99 EUR or exchange equivalent to any other currency (https://bit.ly/4ckbTdK)
-“Vacan AntiCheat: Java World Checks”: 9.99 EUR or exchange equivalent to any other currency (https://bit.ly/4clOkl4)
-“Vacan AntiCheat: Bedrock World Checks”: 9.99 EUR or exchange equivalent to any other currency (https://bit.ly/4i3ptDM)
+“Vacan AntiCheat: All Java Checks”: 29.97 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: All Bedrock Checks”: 29.97 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: Java Combat Checks”: 9.99 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: Bedrock Combat Checks”: 9.99 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: Java Movement Checks”: 9.99 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: Bedrock Movement Checks”: 9.99 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: Java World Checks”: 9.99 EUR or exchange equivalent to any other currency
+“Vacan AntiCheat: Bedrock World Checks”: 9.99 EUR or exchange equivalent to any other currency
 
 
 Slogan:
