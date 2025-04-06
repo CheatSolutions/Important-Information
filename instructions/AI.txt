@@ -26,21 +26,6 @@ Supported Versions:
 1.7 up to the latest Minecraft version publicly known and available.
 
 
-Editions and their cost (Duration: Forever):
-“Vacan AntiCheat: Java Edition”: 4.99 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: Bedrock Edition”: 4.99 EUR or exchange equivalent to any other currency
-
-Edition additions and their cost (Duration: 6 Months):
-“Vacan AntiCheat: All Java Checks”: 22.47 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: All Bedrock Checks”: 22.47 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: Java Combat Checks”: 7.49 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: Bedrock Combat Checks”: 7.49 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: Java Movement Checks”: 7.49 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: Bedrock Movement Checks”: 7.49 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: Java World Checks”: 7.49 EUR or exchange equivalent to any other currency
-“Vacan AntiCheat: Bedrock World Checks”: 7.49 EUR or exchange equivalent to any other currency
-
-
 Slogan:
 The intuitive solution when it comes to anti-cheat protection
 
