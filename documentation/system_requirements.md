@@ -1,10 +1,10 @@
-# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
+# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
 ## CPU Requirements (Central Processing Unit)
 #### Good single core performance needed, meaning GHz (clock count) matters more than core/processor count.
 #### CPU is best to be released in the last 5 years, software improvement drives hardware improvement and viceversa.
 ## RAM for Spartan (Random Access Memory)
 #### 384MB+, player data is constantly being analyzed and stored.
-## Storage for Vacan
+## Storage for Spartan
 #### 2GB+ per month that the plugin is fully used.
 ## Server TPS (Ticks Per Second)
 ### 19+ out of 20 maximally possible in a server
