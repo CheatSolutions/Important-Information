@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
+# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
 
 ## messages.yml Example
 ```
@@ -63,8 +63,8 @@ Messages:
 ```
 ### Detections:
 ```
-{detection} A check’s custom name gathered from Vacan’s configuration
-{detection:real} A check’s real name set by the Vacan’s developer/s
+{detection} A check’s custom name gathered from Spartan’s configuration
+{detection:real} A check’s real name set by the Spartan’s developer/s
 {detection:silent} True/False depending if a check is silent, thus allowing it to prevent player interactions
 {detection:punish} True/False depending if a check can and is configured to punish with commands
 ```
