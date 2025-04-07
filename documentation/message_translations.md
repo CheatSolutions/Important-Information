@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
+# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
 
 ## How to Apply:
 ```
@@ -9,7 +9,7 @@
 5. Delete everything in the messages.yml file.
 6. Paste the previously copied data to the now empty messages.yml file.
 7. Save the file.
-8. Run the command “/vacan reload” and you are all set.
+8. Run the command “/spartan reload” and you are all set.
 ```
 
 ## Simplified Chinese:
