@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
+# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
  
 ## messages.yml Example
 ```
@@ -65,7 +65,7 @@ Screenshot functionality spam causing quick & temporary freezing. (Ex. Taking ma
 Using Minecraft’s control options in irregular ways. (Ex. Assigning movement control to mouse for faster movement)
 
 ## Gameplay & Technologies
-Here are gameplays, technologies or part of gameplays the Vacan AntiCheat is known to work with well:
+Here are gameplays, technologies or part of gameplays the Spartan AntiCheat is known to work with well:
 ```
 Pterodactyl
 Tebex
