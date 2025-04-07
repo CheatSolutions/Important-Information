@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
+# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
 ![unnamed](https://github.com/user-attachments/assets/bf7a1a2a-348c-477a-89a5-a87f97e7a5a1)
 ![unnamed-2](https://github.com/user-attachments/assets/1e734a35-f0f8-4d0d-b93c-471ab2d91070)
 ![unnamed-3](https://github.com/user-attachments/assets/4ecfdd34-c3a9-4744-af7a-7040be5d7461)
