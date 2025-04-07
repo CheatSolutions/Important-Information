@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/vacan">Click to join our Discord community</a>
+# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
 
 ## checks.yml Example
 ```
@@ -14,8 +14,8 @@ irregular-movements: Check Category
       java: true # True if you want the check to be considered in the punishments algorithm
       bedrock: true # True if you want the check to be considered in the punishments algorithm
     commands: # Commands execute all together and in order anytime a player is found to be cheating
-      '1': vacan warn {player} You have been detected for using hack modules # First command executed
-      '2': vacan kick {player} You were kicked for using: {detections} # Second command executed
+      '1': spartan warn {player} You have been detected for using hack modules # First command executed
+      '2': spartan kick {player} You were kicked for using: {detections} # Second command executed
       '3': '' # Third command not set
       '4': '' # Fourth command not set
       '5': '' # Fifth command not set
