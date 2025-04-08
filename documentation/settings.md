@@ -7,6 +7,9 @@ Punishments:
 Logs:
   log_file: true # Log important information in Spartan’s log directory/folder in individual files
   log_console: true # Log important information in the console and logs of your server
+Purchases:
+  email_address: '' # Email address used for checking purchases/subscriptions
+  patreon_full_name: '' # Patreon full name used for checking subscriptions
 Notifications:
   awareness_notifications: true # Be notified about important functionalities of the plugin
   individual_only_notifications: false # Be notified only about your own detections and not of other players
