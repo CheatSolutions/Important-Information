@@ -396,3 +396,61 @@ spectating_player: '&8[&2{prefix}&8]&a Tu ahora estas vigilando a {player}, usa 
   para salir.'
 spectating_ended: '&8[&2{prefix}&8]&c Ya no estas vigilando a alguien.'
 ```
+
+## Portuguese:
+```
+#Translation pt-BR by josegoust
+console_name: Console
+no_permission: '&8[&2{prefix}&8]&c Você não tem permissão para interagir com isso.'
+player_not_found_message: '&8[&2{prefix}&8]&c Jogador não encontrado.'
+config_reload: '&8[&2{prefix}&8]&e Configuração recarregada com sucesso'
+panic_mode_enable: '&8[&2{prefix}&8]&a Modo pânico ativado, todos os checks estão em modo silencioso
+  e não punirão jogadores.'
+panic_mode_disable: '&8[&2{prefix}&8]&c Modo pânico desativado, todos os checks irão operar
+  no modo padrão de acordo com sua configuração'
+kick_reason: '&c {reason}'
+kick_broadcast_message: '&8[&2{prefix}&8]&c {player}&7 foi kickado por&4 {reason}'
+player_ip_limit_kick_message: '&8[&2{prefix}&8]&c Limite de jogador por ip
+  foi atingido.'
+player_violation_reset_message: '&8[&2{prefix}&8]&a Violações resetadas com sucesso
+  para o jogador&8: &2{player}'
+player_stored_data_delete_message: '&8[&2{prefix}&8]&a Data armazenada deletada com sucesso
+  para o jogador&8: &2{player}'
+detection_notification: '&8[&2{prefix}&8] &e{player} &7>> &c{detection:real}§8[{detection:level}§8]
+  &7(§f{info}§7)'
+check_stored_data_delete_message: '&8[&2{prefix}&8]&a Data armazenada deletada com sucesso
+  para o check&8: &2{check}'
+check_enable_message: '&8[&2{prefix}&8] &aVocê ativou o check&8:&7 {detection}'
+check_disable_message: '&8[&2{prefix}&8] &cVocê desativou o check&8:&7 {detection}'
+check_silent_disable_message: '&8[&2{prefix}&8] &aVocê ativou as prevenções para o
+  check&8:&7 {detection}'
+check_silent_enable_message: '&8[&2{prefix}&8] &caVocê desativou as prevenções para o
+  check&8:&7 {detection}'
+check_punishment_enable_message: '&8[&2{prefix}&8] &aVocê ativou as punições para o
+  check&8:&7 {detection}'
+check_punishment_disable_message: '&8[&2{prefix}&8] &cVocê desativou as punições para o
+  the check&8:&7 {detection}'
+non_existing_check: '&8[&2{prefix}&8] &cEste check não existe.'
+bypass_message: '&8[&2{prefix}&8] &c{player} &7tem "passe livre" para &4{detection}
+  &7check por &e{time} &7seconds.'
+warning_message: '&c {reason}'
+warning_feedback_message: '&8[&2{prefix}&8]&7 Você alertou &c{player} &7para&8: &4{reason}'
+verbose_enable: '&8[&2{prefix}&8] &aVocê ativou verbose(detalhamento).'
+verbose_disable: '&8[&2{prefix}&8] &cVocê desativou verbose(detalhamento)'
+notifications_enable: '&8[&2{prefix}&8] &aVocê ativou as notificações.'
+notifications_modified: '&8[&2{prefix}&8] &eVocê modificou as notificações.'
+notifications_disable: '&8[&2{prefix}&8] &cVocê desativou as notificações.'
+awareness_notification: '&8[&2{prefix} Notificações&8]&a {info}'
+wave_start_message: '&8[&2{prefix}&8]&c A onda está iniciando.'
+wave_end_message: '&8[&2{prefix}&8]&c A onda terminou com um total de {total} ação(oes).'
+wave_clear_message: '&8[&2{prefix}&8]&c A onda foi limpada.'
+wave_add_message: '&8[&2{prefix}&8]&a {player} foi adicionado na onda.'
+wave_remove_message: '&8[&2{prefix}&8]&c {player} foi removido da onda.'
+full_wave_list: '&8[&2{prefix}&8]&c A lista da onda está cheia.'
+wave_not_added_message: '&8[&2{prefix}&8]&c {player} is not added to the wave.'
+unknown_command: '&fUnknown command. Please type "/help" for help.'
+failed_command: '&8[&2{prefix}&8]&c Command failed ({command}). Please check your
+  arguments and try again.'
+successful_command: '&8[&2{prefix}&8]&a Comando com sucesso.'
+massive_command_reason: '&8[&2{prefix}&8]&c A escrita do motivo está muito grande.'
+```
