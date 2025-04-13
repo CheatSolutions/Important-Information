@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
+# https://spartan.top
 ## Below is a list of reasons you will see when checking a player using the “Player Info” inventory menu. To use this inventory menu, execute the command “/spartan info” to check yourself and “/spartan info playerName” to check someone else.
 
 ### Player has permission bypass:
