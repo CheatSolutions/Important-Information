@@ -1,3 +1,4 @@
+# https://spartan.top
 ## Terms of Use:
 * You are not permitted to sell or offer for free our software in any way or form.
 * You are not permitted to use or show our software’s closed-source and obfuscated codes in any way or form.
