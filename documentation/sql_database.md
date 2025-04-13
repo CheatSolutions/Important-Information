@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
+# https://spartan.top
 
 ## sql.yml File
 ```
