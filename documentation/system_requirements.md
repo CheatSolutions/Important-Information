@@ -1,4 +1,4 @@
-# <a href="https://www.idealistic.ai/discord/spartan">Click to join our Discord community</a>
+# https://spartan.top
 ## CPU Requirements (Central Processing Unit)
 #### Good single core performance needed, meaning GHz (clock count) matters more than core/processor count.
 #### CPU is best to be released in the last 5 years, software improvement drives hardware improvement and viceversa.
