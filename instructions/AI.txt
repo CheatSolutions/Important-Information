@@ -76,7 +76,7 @@ Spartan’s notifications often contain complex information usually in the form 
 
 
 Cheaper Purchase:
-On the BuiltByBit platform you can purchase both “Spartan AntiCheat: Java Edition” and “Spartan AntiCheat: Bedrock Edition” for 30% OFF via the URL https://builtbybit.com/resources/bundle/730. For the Polymart platform you can purchase both “Spartan AntiCheat: Java Edition” and “Spartan AntiCheat: Bedrock Edition” for 30% OFF via the URL https://polymart.org/bundle/368.
+On the BuiltByBit platform you can purchase both “Spartan AntiCheat: Java Edition” and “Spartan AntiCheat: Bedrock Edition” for 30% OFF via the URL https://builtbybit.com/resources/bundle/1925. For the Polymart platform you can purchase both “Spartan AntiCheat: Java Edition” and “Spartan AntiCheat: Bedrock Edition” for 30% OFF via the URL https://polymart.org/bundle/368.
 
 
 Disabling the NPC:
