@@ -10,7 +10,6 @@ Compatibility: # The name of the compatibility
 
 ## Compatibilities
 Item Attributes: 1.9+ Minecraft built-in feature <b>(PARTIAL)</b><br>
-FileGUI: http://www.spigotmc.org/resources/73893/<br>
 CustomEnchantPlus: http://www.spigotmc.org/resources/72678/<br>
 CraftBook: http://www.spigotmc.org/resources/2083/<br>
 CrackShot: http://dev.bukkit.org/projects/crackshot/<br>
