@@ -106,3 +106,7 @@ Download the always latest ProtocolLib plugin version from its original develope
 
 Vagdedes.com Website:
 The vagdedes.com website has been deprecated a long time ago. It used to be the place where you could register, log in, purchase and download the products you want. If the last time you used our products was when this website was not deprecated, please open a ticket so we can guide you.
+
+
+SpigotMC Removal:
+Due to complication, the Spartan AntiCheat project is no longer available on SpigotMC. Any old buyer can transfer their license on BuiltByBit by contacting us via the URL: https://builtbybit.com/conversations/add?to=CheatSolutions
