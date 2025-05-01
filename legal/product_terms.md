@@ -13,3 +13,6 @@
 * Pirated copies must be reported quickly to prevent further damage. If not followed and we become aware, the responsible license may be suspended temporarily or permanently.
 * Our software developed to run Bukkit API through Spigot, Bukkit, Paper, Purpur, Airplane and Folia (Experimental). Any other server types based on the Bukkit API can work but are not officially supported.
 * No full or partial refunds, you have been warned.
+
+### Dislcaimer:
+Specific terms may be overriden by laws in specific countries.
