@@ -16,6 +16,7 @@ Notifications:
   enable_notifications_on_login: true # Detection notifications will enable automatically upon logging in for players with access
   message_clickable_command: '/teleport {player}' # Command executed when a chat notification message is clicked
 Important:
+  bedrock_on_protocollib: true # Whether the plugin should process packets for bedrock players
   max_supported_player_latency: 5000 # Allow the plugin to check the player’s performance and prevent instabilities
   op_bypass: false # Bypass the detections if you are a server operator
   bedrock_client_permission: false # Enables the permission “spartan.bedrock” to consider Java clients as Bedrock clients.
