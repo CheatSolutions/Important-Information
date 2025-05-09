@@ -8,9 +8,6 @@ You can hover above commands in-game to get additional descriptions about their 
 
 ## Command List
 
-``/spartan menu`` opens the main gui menu.<br>
-Permissionss: spartan.info, spartan.manage
-
 ``/spartan panic`` enables silent mode and disables punishments for all checks.<br>
 Permissions: spartan.manage
 
