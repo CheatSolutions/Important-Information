@@ -117,5 +117,28 @@ The vagdedes.com website has been deprecated a long time ago. It used to be the 
 SpigotMC Removal and Transfers to BuiltByBit:
 Due to complication, the Spartan AntiCheat project is no longer available on SpigotMC. Any old buyer can transfer their license on BuiltByBit by contacting us via the URL: https://builtbybit.com/conversations/add?to=CheatSolutions
 
+
+Steps to Enable the Spartan AntiCheat (Patreon only):
+1. Download Spartan from https://modrinth.com/plugin/spartan-anticheat
+2. Place the jar in the plugin's folder
+3. Start or restart your server
+4. Add your patreon_full_name in settings.yml (first time installing only!)
+5. Run the command: /spartan reload (first time installing only!)
+
+
+Steps to Enable the Spartan AntiCheat (PayPal & Stripe only):
+1. Download Spartan from https://modrinth.com/plugin/spartan-anticheat
+2. Place the jar in the plugin's folder
+3. Start or restart your server
+4. Add your email_address in settings.yml (first time installing only!)
+5. Run the command: /spartan reload (first time installing only!)
+
+
+Steps to Enable the Spartan AntiCheat (BuiltByBit & Polymart only):
+1. Download Spartan from BuiltByBit or Polymart (depending on where you purchased)
+2. Place the jar in the plugin's folder
+3. Start or restart your server
+
+
 Support Ticket:
 https://builtbybit.com/conversations/add?to=CheatSolutions
