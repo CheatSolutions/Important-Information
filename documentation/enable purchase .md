@@ -7,7 +7,7 @@
 4. Add your email_address in settings.yml (first time installing only!)
 5. Run the command: /spartan reload (first time installing only!)
 
-## Patreon only
+## Patreon
 1. Download Spartan from https://modrinth.com/plugin/spartan-anticheat
 2. Place the jar in the plugin's folder
 3. Start or restart your server
