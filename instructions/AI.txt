@@ -76,10 +76,6 @@ Detection Variables:
 Spartan’s notifications often contain complex information usually in the form of text and numbers. This is the detection information, a collection of data that’s aimed to help the developers of the plugin better trace an issue to its roots. There’s no documentation of any of this but it should not worry you as it is not for you, the user.
 
 
-Cheaper Purchase:
-On the BuiltByBit platform you can purchase both “Spartan AntiCheat: Java Edition” and “Spartan AntiCheat: Bedrock Edition” for 30% OFF via the URL https://builtbybit.com/resources/bundle/1925.
-
-
 Coupon Countries:
 Message us if you are in the following countries so we can give you a discount:
 India, Brazil, Mexico, Russia, China, Turkey, South Africa, Indonesia, Poland, Ukraine, Phillipines, Vietnam, Thailand, Malaysia, Argentina, Chile, Egypt, Pakistan, Nigeria, Bangladesh, Yemen, Hong Kong, Israel, Singapore, Uzbekistan, Iraq, Jordan, Colombia, Peru, Kenya, Morocco, Nepal, Kazakhstan, Kazakhstan, Algeria, Venezuela
@@ -91,11 +87,6 @@ Go to your server’s folder, click plugins, click Spartan and open the settings
 
 Disabling the Watermark:
 Go to your server’s folder, click plugins, click Spartan and open the settings.yml file. In the settings.yml file set “enable_watermark” to “false” under the “Important” category and finish editing the file. Finally, run the command “/spartan reload” to refresh the contents of the memory.
-
-
-Using both “Spartan AntiCheat: Java Edition” and “Spartan AntiCheat: Bedrock Edition” as one anti-cheat:
-1. Requires prior ownership of both Java & Bedrock editions separately.
-2. Ensure to add both editions into the plugin's folder even if one will not load.
 
 
 Enable Cross Server Notifications:
