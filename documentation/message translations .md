@@ -2,14 +2,13 @@
 
 ## How to Apply:
 ```
-1. Remember that all following translations are contributions by users.
-2. Copy all the options from the translation you desire from the ones below.
-3. Navigate to the directory /plugins/Spartan.
+1. Copy all the options from one of the translations below.
+3. Navigate to the directory "/plugins/Spartan" in your server's files.
 4. Open the messages.yml file.
 5. Delete everything in the messages.yml file.
-6. Paste the previously copied data to the now empty messages.yml file.
+6. Paste all the options you copied before to the now empty messages.yml file.
 7. Save the file.
-8. Run the command “/spartan reload” and you are all set.
+8. Run the command “/spartan reload” and you are ready!
 ```
 
 ## Simplified Chinese:
@@ -454,3 +453,92 @@ failed_command: '&8[&2{prefix}&8]&c Command failed ({command}). Please check you
 successful_command: '&8[&2{prefix}&8]&a Comando com sucesso.'
 massive_command_reason: '&8[&2{prefix}&8]&c A escrita do motivo está muito grande.'
 ```
+
+## Polish:
+```
+console_name: Konsola
+no_permission: '&8[&2{prefix}&8]&c Nie masz uprawnień, aby to wykonać.'
+player_not_found_message: '&8[&2{prefix}&8]&c Nie znaleziono gracza.'
+config_reload: '&8[&2{prefix}&8]&e Konfiguracja została pomyślnie przeładowana.'
+panic_mode_enable: '&8[&2{prefix}&8]&a Tryb paniki włączony, wszystkie sprawdzenia są ustawione jako ciche i nie będą karać graczy.'
+panic_mode_disable: '&8[&2{prefix}&8]&c Tryb paniki wyłączony, wszystkie sprawdzenia będą działać zgodnie z konfiguracją.'
+kick_reason: '&c {reason}'
+kick_broadcast_message: '&8[&2{prefix}&8]&c {player}&7 został wyrzucony za&4 {reason}'
+player_ip_limit_kick_message: '&8[&2{prefix}&8]&c Limit graczy z twojego IP został osiągnięty.'
+player_violation_reset_message: '&8[&2{prefix}&8]&a Wykroczenia zostały pomyślnie zresetowane dla gracza&8: &2{player}'
+player_stored_data_delete_message: '&8[&2{prefix}&8]&a Dane gracza zostały pomyślnie usunięte&8: &2{player}'
+detection_notification: '&8[&2{prefix}&8] &e{player} &7>> &c{detection:real}§8[{detection:level}§8] &7(§f{info}§7)'
+check_stored_data_delete_message: '&8[&2{prefix}&8]&a Dane wykrywania zostały pomyślnie usunięte&8: &2{check}'
+check_enable_message: '&8[&2{prefix}&8] &aWłączyłeś sprawdzenie&8:&7 {detection}'
+check_disable_message: '&8[&2{prefix}&8] &cWyłączyłeś sprawdzenie&8:&7 {detection}'
+check_silent_disable_message: '&8[&2{prefix}&8] &aWłączyłeś zapobieganie dla sprawdzenia&8:&7 {detection}'
+check_silent_enable_message: '&8[&2{prefix}&8] &cWyłączyłeś zapobieganie dla sprawdzenia&8:&7 {detection}'
+check_punishment_enable_message: '&8[&2{prefix}&8] &aWłączyłeś kary dla sprawdzenia&8:&7 {detection}'
+check_punishment_disable_message: '&8[&2{prefix}&8] &cWyłączyłeś kary dla sprawdzenia&8:&7 {detection}'
+non_existing_check: '&8[&2{prefix}&8] &cTo sprawdzenie nie istnieje.'
+bypass_message: '&8[&2{prefix}&8] &c{player} &7omija teraz sprawdzenie &4{detection} &7przez &e{time} &7sekund.'
+warning_message: '&c {reason}'
+warning_feedback_message: '&8[&2{prefix}&8]&7 Ostrzegłeś gracza &c{player} &7za&8: &4{reason}'
+verbose_enable: '&8[&2{prefix}&8] &aWłączyłeś tryb szczegółowy.'
+verbose_disable: '&8[&2{prefix}&8] &cWyłączyłeś tryb szczegółowy.'
+notifications_enable: '&8[&2{prefix}&8] &aWłączyłeś powiadomienia.'
+notifications_modified: '&8[&2{prefix}&8] &eZmodyfikowałeś powiadomienia.'
+notifications_disable: '&8[&2{prefix}&8] &cWyłączyłeś powiadomienia.'
+awareness_notification: '&8[&2{prefix} Powiadomienie&8]&a {info}'
+wave_start_message: '&8[&2{prefix}&8]&c Fala się rozpoczęła.'
+wave_end_message: '&8[&2{prefix}&8]&c Fala zakończona z łączną liczbą {total} akcji.'
+wave_clear_message: '&8[&2{prefix}&8]&c Fala została wyczyszczona.'
+wave_add_message: '&8[&2{prefix}&8]&a {player} został dodany do fali.'
+wave_remove_message: '&8[&2{prefix}&8]&c {player} został usunięty z fali.'
+full_wave_list: '&8[&2{prefix}&8]&c Lista fali jest pełna.'
+wave_not_added_message: '&8[&2{prefix}&8]&c {player} nie został dodany do fali.'
+unknown_command: '&fNieznana komenda. Wpisz "/help", aby uzyskać pomoc.'
+failed_command: '&8[&2{prefix}&8]&c Nieudana komenda ({command}). Sprawdź argumenty i spróbuj ponownie.'
+successful_command: '&8[&2{prefix}&8]&a Komenda wykonana pomyślnie.'
+massive_command_reason: '&8[&2{prefix}&8]&c Powód jest zbyt długi.'
+```
+
+## Turkish:
+```
+console_name: Konsol
+no_permission: '&8[&2{prefix}&8]&c Bu işlemi gerçekleştirmek için yetkin yok.'
+player_not_found_message: '&8[&2{prefix}&8]&c Oyuncu bulunamadı.'
+config_reload: '&8[&2{prefix}&8]&e Yapılandırma başarıyla yeniden yüklendi.'
+panic_mode_enable: '&8[&2{prefix}&8]&a Panik modu etkinleştirildi, tüm kontroller sessize alındı ve oyuncular cezalandırılmayacak.'
+panic_mode_disable: '&8[&2{prefix}&8]&c Panik modu devre dışı bırakıldı, tüm kontroller yapılandırma standartlarına göre çalışacak.'
+kick_reason: '&c {reason}'
+kick_broadcast_message: '&8[&2{prefix}&8]&c {player}&7 adlı oyuncu şu nedenle atıldı:&4 {reason}'
+player_ip_limit_kick_message: '&8[&2{prefix}&8]&c IP adresinizin oyuncu limiti aşıldı.'
+player_violation_reset_message: '&8[&2{prefix}&8]&a Oyuncunun ihlalleri başarıyla sıfırlandı&8: &2{player}'
+player_stored_data_delete_message: '&8[&2{prefix}&8]&a Oyuncunun kayıtlı verileri başarıyla silindi&8: &2{player}'
+detection_notification: '&8[&2{prefix}&8] &e{player} &7>> &c{detection:real}§8[{detection:level}§8] &7(§f{info}§7)'
+check_stored_data_delete_message: '&8[&2{prefix}&8]&a Kontrol verisi başarıyla silindi&8: &2{check}'
+check_enable_message: '&8[&2{prefix}&8] &aŞu kontrolü etkinleştirdiniz&8:&7 {detection}'
+check_disable_message: '&8[&2{prefix}&8] &cŞu kontrolü devre dışı bıraktınız&8:&7 {detection}'
+check_silent_disable_message: '&8[&2{prefix}&8] &aŞu kontrol için önleme etkinleştirildi&8:&7 {detection}'
+check_silent_enable_message: '&8[&2{prefix}&8] &cŞu kontrol için önleme devre dışı bırakıldı&8:&7 {detection}'
+check_punishment_enable_message: '&8[&2{prefix}&8] &aŞu kontrol için cezalar etkinleştirildi&8:&7 {detection}'
+check_punishment_disable_message: '&8[&2{prefix}&8] &cŞu kontrol için cezalar devre dışı bırakıldı&8:&7 {detection}'
+non_existing_check: '&8[&2{prefix}&8] &cBu kontrol mevcut değil.'
+bypass_message: '&8[&2{prefix}&8] &c{player} &7artık &4{detection} &7kontrolünü &e{time} &7saniyeliğine atlıyor.'
+warning_message: '&c {reason}'
+warning_feedback_message: '&8[&2{prefix}&8]&7 &c{player} &7oyuncusuna şu nedenle uyarı verdiniz&8: &4{reason}'
+verbose_enable: '&8[&2{prefix}&8] &aAyrıntılı mod etkinleştirildi.'
+verbose_disable: '&8[&2{prefix}&8] &cAyrıntılı mod devre dışı bırakıldı.'
+notifications_enable: '&8[&2{prefix}&8] &aBildirimler etkinleştirildi.'
+notifications_modified: '&8[&2{prefix}&8] &eBildirimler değiştirildi.'
+notifications_disable: '&8[&2{prefix}&8] &cBildirimler devre dışı bırakıldı.'
+awareness_notification: '&8[&2{prefix} Bildirim&8]&a {info}'
+wave_start_message: '&8[&2{prefix}&8]&c Dalga başlatıldı.'
+wave_end_message: '&8[&2{prefix}&8]&c Dalga sona erdi. Toplam işlem sayısı: {total}'
+wave_clear_message: '&8[&2{prefix}&8]&c Dalga temizlendi.'
+wave_add_message: '&8[&2{prefix}&8]&a {player} dalgaya eklendi.'
+wave_remove_message: '&8[&2{prefix}&8]&c {player} dalgadan çıkarıldı.'
+full_wave_list: '&8[&2{prefix}&8]&c Dalga listesi dolu.'
+wave_not_added_message: '&8[&2{prefix}&8]&c {player} dalgaya eklenmedi.'
+unknown_command: '&fBilinmeyen komut. Yardım için "/help" yazın.'
+failed_command: '&8[&2{prefix}&8]&c Komut başarısız oldu ({command}). Lütfen argümanları kontrol edip tekrar deneyin.'
+successful_command: '&8[&2{prefix}&8]&a Komut başarıyla çalıştırıldı.'
+massive_command_reason: '&8[&2{prefix}&8]&c Sebep çok uzun.'
+```
+
