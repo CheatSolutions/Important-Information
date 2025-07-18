@@ -1342,3 +1342,51 @@ massive_command_reason: '&8[&2{prefix}&8]&c הסיבה ארוכה מדי.'
 ```
 </details>
 
+## Greek:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
+```
+console_name: Κονσόλα
+no_permission: '&8[&2{prefix}&8]&c Δεν έχεις άδεια να αλληλεπιδράσεις με αυτό.'
+player_not_found_message: '&8[&2{prefix}&8]&c Ο παίκτης δεν βρέθηκε.'
+config_reload: '&8[&2{prefix}&8]&e Η ρύθμιση επαναφορτώθηκε με επιτυχία.'
+panic_mode_enable: '&8[&2{prefix}&8]&a Ενεργοποιήθηκε η λειτουργία πανικού, όλοι οι έλεγχοι είναι σε αθόρυβη λειτουργία και δεν θα τιμωρούν παίκτες.'
+panic_mode_disable: '&8[&2{prefix}&8]&c Απενεργοποιήθηκε η λειτουργία πανικού, όλοι οι έλεγχοι θα τρέχουν πλέον σύμφωνα με τις ρυθμίσεις.'
+kick_reason: '&c {reason}'
+kick_broadcast_message: '&8[&2{prefix}&8]&c Ο παίκτης {player}&7 αποβλήθηκε για &4{reason}'
+player_ip_limit_kick_message: '&8[&2{prefix}&8]&c Έχει επιτευχθεί το όριο παικτών για τη διεύθυνση IP σου.'
+player_violation_reset_message: '&8[&2{prefix}&8]&a Οι παραβάσεις του παίκτη επαναφέρθηκαν με επιτυχία&8: &2{player}'
+player_stored_data_delete_message: '&8[&2{prefix}&8]&a Τα αποθηκευμένα δεδομένα του παίκτη διαγράφηκαν με επιτυχία&8: &2{player}'
+detection_notification: '&8[&2{prefix}&8] &e{player} &7>> &c{detection:real}§8[{detection:level}§8] &7(§f{info}§7)'
+check_stored_data_delete_message: '&8[&2{prefix}&8]&a Τα αποθηκευμένα δεδομένα του ελέγχου διαγράφηκαν με επιτυχία&8: &2{check}'
+check_enable_message: '&8[&2{prefix}&8] &a Ενεργοποιήσατε τον έλεγχο&8:&7 {detection}'
+check_disable_message: '&8[&2{prefix}&8] &c Απενεργοποιήσατε τον έλεγχο&8:&7 {detection}'
+check_silent_disable_message: '&8[&2{prefix}&8] &a Ενεργοποιήσατε τις προληπτικές ενέργειες για τον έλεγχο&8:&7 {detection}'
+check_silent_enable_message: '&8[&2{prefix}&8] &c Απενεργοποιήσατε τις προληπτικές ενέργειες για τον έλεγχο&8:&7 {detection}'
+check_punishment_enable_message: '&8[&2{prefix}&8] &a Ενεργοποιήσατε τις τιμωρίες για τον έλεγχο&8:&7 {detection}'
+check_punishment_disable_message: '&8[&2{prefix}&8] &c Απενεργοποιήσατε τις τιμωρίες για τον έλεγχο&8:&7 {detection}'
+non_existing_check: '&8[&2{prefix}&8] &c Αυτός ο έλεγχος δεν υπάρχει.'
+bypass_message: '&8[&2{prefix}&8] &c{player} &7 παρακάμπτει τώρα τον έλεγχο &4{detection} &7για &e{time} &7δευτερόλεπτα.'
+warning_message: '&c {reason}'
+warning_feedback_message: '&8[&2{prefix}&8]&7 Προειδοποιήσατε τον &c{player} &7για&8: &4{reason}'
+verbose_enable: '&8[&2{prefix}&8] &a Ενεργοποιήσατε την λεπτομερή καταγραφή.'
+verbose_disable: '&8[&2{prefix}&8] &c Απενεργοποιήσατε την λεπτομερή καταγραφή.'
+notifications_enable: '&8[&2{prefix}&8] &a Ενεργοποιήσατε τις ειδοποιήσεις.'
+notifications_modified: '&8[&2{prefix}&8] &e Τροποποιήσατε τις ειδοποιήσεις.'
+notifications_disable: '&8[&2{prefix}&8] &c Απενεργοποιήσατε τις ειδοποιήσεις.'
+awareness_notification: '&8[&2{prefix} Ειδοποίηση&8]&a {info}'
+wave_start_message: '&8[&2{prefix}&8]&c Η φάση ξεκινάει.'
+wave_end_message: '&8[&2{prefix}&8]&c Η φάση ολοκληρώθηκε με συνολικά {total} ενέργειες.'
+wave_clear_message: '&8[&2{prefix}&8]&c Η φάση καθαρίστηκε.'
+wave_add_message: '&8[&2{prefix}&8]&a Ο παίκτης {player} προστέθηκε στη φάση.'
+wave_remove_message: '&8[&2{prefix}&8]&c Ο παίκτης {player} αφαιρέθηκε από τη φάση.'
+full_wave_list: '&8[&2{prefix}&8]&c Η λίστα φάσης είναι γεμάτη.'
+wave_not_added_message: '&8[&2{prefix}&8]&c Ο παίκτης {player} δεν προστέθηκε στη φάση.'
+unknown_command: '&f Άγνωστη εντολή. Πληκτρολογήστε "/help" για βοήθεια.'
+failed_command: '&8[&2{prefix}&8]&c Η εντολή απέτυχε ({command}). Ελέγξτε τα επιχειρήματά σας και δοκιμάστε ξανά.'
+successful_command: '&8[&2{prefix}&8]&a Η εντολή εκτελέστηκε με επιτυχία.'
+massive_command_reason: '&8[&2{prefix}&8]&c Ο λόγος είναι πολύ μεγάλος.'
+```
+</details>
+
