@@ -12,6 +12,9 @@
 ```
 
 ## Simplified Chinese:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 server_name: '&4Minecraft伺服器'
 violations_reset: '&8[&2{prefix}&8]&c VLs &7已被重置&8!'
@@ -137,8 +140,12 @@ awareness_notification: '&8[&2{prefix} 通知&8]&a {info}'
 spectating_player: '&8[&2{prefix}&8]&a 你正在旁观 {player}.'
 spectating_ended: '&8[&2{prefix}&8]&c 你不再旁观某人。'
 ```
+</details>
 
 ## French:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Test
 no_permission: '&cVous n''avez pas la permission d''interagir avec ceci.'
@@ -197,8 +204,12 @@ massive_command_reason: '&8[&2{prefix}&8]&c La raison est trop longue.'
 spectating_player: '&8[&2{prefix}&8]&a Vous observez maintenant {player}, tapez "/spectate" pour arrêter.'
 spectating_ended: '&8[&2{prefix}&8]&c Vous ne observez plus personne.'
 ```
+</details>
 
 ## Russian:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 server_name: '&4Еще один Minecraft сервер'
 violations_reset: '&8[&2{prefix}&8] &cНарушения &7были сброшены&8!'
@@ -264,8 +275,12 @@ awareness_notification: '&8[&2{prefix} Notification&8]&a {info}'
 spectating_player: '&8[&2{prefix}&8]&a Следим за {player}.'
 spectating_ended: '&8[&2{prefix}&8]&c Теперь ты не следишь за кем-либо.'
 ```
+</details>
 
 ## German:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 server_name: '&4Ein Minecraft Server'
 violations_reset: '&8[&2{prefix}&8] &cVerstöße &7wurden zurückgesetzt&8!'
@@ -326,8 +341,12 @@ awareness_notification: '&8[&2{prefix} Benachrichtigung&8]&a {info}'
 spectating_player: '&8[&2{prefix}&8]&a Du beobachtest nun {player}.'
 spectating_ended: '&8[&2{prefix}&8]&c Du beobachtest nun niemanden mehr.'
 ```
+</details>
 
 ## Spanish:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Console
 no_permission: '&cNo tienes permiso para eso.'
@@ -395,8 +414,12 @@ spectating_player: '&8[&2{prefix}&8]&a Tu ahora estas vigilando a {player}, usa 
   para salir.'
 spectating_ended: '&8[&2{prefix}&8]&c Ya no estas vigilando a alguien.'
 ```
+</details>
 
 ## Portuguese:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 #Translation pt-BR by josegoust
 console_name: Console
@@ -453,8 +476,12 @@ failed_command: '&8[&2{prefix}&8]&c Command failed ({command}). Please check you
 successful_command: '&8[&2{prefix}&8]&a Comando com sucesso.'
 massive_command_reason: '&8[&2{prefix}&8]&c A escrita do motivo está muito grande.'
 ```
+</details>
 
 ## Polish:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Konsola
 no_permission: '&8[&2{prefix}&8]&c Nie masz uprawnień, aby to wykonać.'
@@ -497,8 +524,12 @@ failed_command: '&8[&2{prefix}&8]&c Nieudana komenda ({command}). Sprawdź argum
 successful_command: '&8[&2{prefix}&8]&a Komenda wykonana pomyślnie.'
 massive_command_reason: '&8[&2{prefix}&8]&c Powód jest zbyt długi.'
 ```
+</details>
 
 ## Turkish:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Konsol
 no_permission: '&8[&2{prefix}&8]&c Bu işlemi gerçekleştirmek için yetkin yok.'
@@ -541,8 +572,12 @@ failed_command: '&8[&2{prefix}&8]&c Komut başarısız oldu ({command}). Lütfen
 successful_command: '&8[&2{prefix}&8]&a Komut başarıyla çalıştırıldı.'
 massive_command_reason: '&8[&2{prefix}&8]&c Sebep çok uzun.'
 ```
+</details>
 
 ## Indonesian:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Konsol
 no_permission: '&8[&2{prefix}&8]&c Kamu tidak memiliki izin untuk melakukan ini.'
@@ -585,8 +620,12 @@ failed_command: '&8[&2{prefix}&8]&c Perintah gagal ({command}). Silakan periksa 
 successful_command: '&8[&2{prefix}&8]&a Perintah berhasil dijalankan.'
 massive_command_reason: '&8[&2{prefix}&8]&c Alasan terlalu panjang.'
 ```
+</details>
 
 ## Italian:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Console
 no_permission: '&8[&2{prefix}&8]&c Non hai il permesso per interagire con questo.'
@@ -629,8 +668,12 @@ failed_command: '&8[&2{prefix}&8]&c Comando fallito ({command}). Controlla gli a
 successful_command: '&8[&2{prefix}&8]&a Comando eseguito con successo.'
 massive_command_reason: '&8[&2{prefix}&8]&c Il motivo è troppo lungo.'
 ```
+</details>
 
 ## Dutch:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Console
 no_permission: '&8[&2{prefix}&8]&c Je hebt geen toestemming om dit te doen.'
@@ -673,8 +716,12 @@ failed_command: '&8[&2{prefix}&8]&c Commando mislukt ({command}). Controleer je 
 successful_command: '&8[&2{prefix}&8]&a Commando succesvol uitgevoerd.'
 massive_command_reason: '&8[&2{prefix}&8]&c De reden is te lang.'
 ```
+</details>
 
 ## Vietnamese:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Bảng điều khiển
 no_permission: '&8[&2{prefix}&8]&c Bạn không có quyền để thực hiện thao tác này.'
@@ -717,8 +764,12 @@ failed_command: '&8[&2{prefix}&8]&c Lệnh thất bại ({command}). Hãy kiểm
 successful_command: '&8[&2{prefix}&8]&a Lệnh đã thực thi thành công.'
 massive_command_reason: '&8[&2{prefix}&8]&c Lý do quá dài.'
 ```
+</details>
 
 ## Korean:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: 콘솔
 no_permission: '&8[&2{prefix}&8]&c 이 작업을 수행할 권한이 없습니다.'
@@ -761,8 +812,12 @@ failed_command: '&8[&2{prefix}&8]&c 명령어 실행 실패 ({command}). 인수�
 successful_command: '&8[&2{prefix}&8]&a 명령어가 성공적으로 실행되었습니다.'
 massive_command_reason: '&8[&2{prefix}&8]&c 이유가 너무 깁니다.'
 ```
+</details>
 
 ## Czech:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: Konzole
 no_permission: '&8[&2{prefix}&8]&c Nemáte oprávnění k provedení této akce.'
@@ -805,8 +860,12 @@ failed_command: '&8[&2{prefix}&8]&c Příkaz se nepodařilo vykonat ({command}).
 successful_command: '&8[&2{prefix}&8]&a Příkaz byl úspěšně vykonán.'
 massive_command_reason: '&8[&2{prefix}&8]&c Zadaný důvod je příliš dlouhý.'
 ```
+</details>
 
 ## Thai:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
 ```
 console_name: คอนโซล
 no_permission: '&8[&2{prefix}&8]&c คุณไม่มีสิทธิ์ในการดำเนินการนี้'
@@ -849,4 +908,5 @@ failed_command: '&8[&2{prefix}&8]&c ไม่สามารถดำเนิ�
 successful_command: '&8[&2{prefix}&8]&a ดำเนินการคำสั่งเรียบร้อยแล้ว'
 massive_command_reason: '&8[&2{prefix}&8]&c เหตุผลที่ระบุยาวเกินไป'
 ```
+</details>
 
