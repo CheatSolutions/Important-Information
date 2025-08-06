@@ -12,7 +12,7 @@
 4. Run the command: /spartan reload (first time installing only!)
 
 ## BuiltByBit & Polymart
-Automatically enables, nothing extra to do
+Automatically enables upon installation, no extra action needed
 
 # Not working?
 For extra help join our Discord server via https://spartan.top/discord and seek help via our AI assistant. If help on Discord does not suffice, you can always contact human support via BuiltByBit at https://builtbybit.com/conversations/add?to=CheatSolutions
