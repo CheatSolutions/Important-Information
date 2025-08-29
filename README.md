@@ -1,1 +1,1 @@
-# Important information about our products
+# Important information about our products.
