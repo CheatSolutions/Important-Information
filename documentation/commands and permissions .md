@@ -11,6 +11,9 @@ You can hover above commands in-game to get additional descriptions about their 
 ``/spartan panic`` enables silent mode and disables punishments for all checks.<br>
 Permissions: spartan.manage
 
+``/spartan syn`` enables the use of Syn inventory menus/GUIs<br>
+Permissions: spartan.manage
+
 ``/spartan reload`` reloads Spartan's configuration.<br>
 Permission: spartan.reload
 
