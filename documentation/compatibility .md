@@ -31,6 +31,7 @@ KnockbackMaster: http://www.spigotmc.org/resources/42721/<br>
 ItemsAdder: http://www.spigotmc.org/resources/73355/<br>
 mcMMO: https://www.spigotmc.org/resources/64348/<br>
 AureliumSkills: http://www.spigotmc.org/resources/81069/<br>
+EcoEnchants: http://www.spigotmc.org/resources/79573/<br>
 PrinterMode: http://www.mc-market.org/resources/6898/<br>
 ProjectKorra: https://projectkorra.com/forum/resources/1/<br>
 Essentials: http://essentialsx.net<br>
