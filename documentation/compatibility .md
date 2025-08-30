@@ -32,6 +32,7 @@ ItemsAdder: http://www.spigotmc.org/resources/73355/<br>
 mcMMO: https://www.spigotmc.org/resources/64348/<br>
 AureliumSkills: http://www.spigotmc.org/resources/81069/<br>
 PrinterMode: http://www.mc-market.org/resources/6898/<br>
+ProjectKorra: https://projectkorra.com/forum/resources/1/<br>
 Essentials: http://essentialsx.net<br>
 MythicMobs: http://www.spigotmc.org/resources/5702/<br>
 MyPet: https://github.com/MyPetORG/MyPet/releases<br>
