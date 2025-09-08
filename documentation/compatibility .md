@@ -88,7 +88,7 @@ AdvancedEnchantments:
   enabled: true
   force: false
 ```
-(There may be more or less options, please be aware)
+(There may be more, less or different options, please be aware)
 
 ## Compatibilities
 Item Attributes: 1.9+ Minecraft built-in feature <b>(PARTIAL)</b><br>
