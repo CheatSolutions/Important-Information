@@ -6,7 +6,88 @@ NameOfCompatibility: # The name of the compatibility
   enabled: true # Enabled judges whether a compatibility will become functional if detected to exist or forced
   force: false # Force will attempt to make a compatibility functional regardless if it exists (potential errors)
 ```
-(There are more options available, the above is an example of the configuration)
+
+## messages.yml File
+```
+AdvancedAbilities:
+  enabled: true
+  force: false
+CrackShot:
+  enabled: true
+  force: false
+CrackShotPlus:
+  enabled: true
+  force: false
+CraftBook:
+  enabled: true
+  force: false
+MagicSpells:
+  enabled: true
+  force: false
+ProtocolLib:
+  enabled: true
+  force: false
+mcMMO:
+  enabled: true
+  force: false
+TreeFeller:
+  enabled: true
+  force: false
+VeinMiner:
+  enabled: true
+  force: false
+GrapplingHook:
+  enabled: true
+  force: false
+MineBomb:
+  enabled: true
+  force: false
+SuperPickaxe:
+  enabled: true
+  force: false
+RealDualWield:
+  enabled: true
+  force: false
+MythicMobs:
+  enabled: true
+  force: false
+ItemAttributes:
+  enabled: true
+  force: false
+PrinterMode:
+  enabled: true
+  force: false
+Vehicles:
+  enabled: true
+  force: false
+MineTinker:
+  enabled: true
+  force: false
+WildTools:
+  enabled: false
+  force: false
+AureliumSkills:
+  enabled: true
+  force: false
+CustomEncahntsPlus:
+  enabled: true
+  force: false
+EcoEnchants:
+  enabled: true
+  force: false
+ItemsAdder:
+  enabled: true
+  force: false
+RampenDrills:
+  enabled: true
+  force: false
+ProjectKorra:
+  enabled: true
+  force: false
+AdvancedEnchantments:
+  enabled: true
+  force: false
+```
 
 ## Compatibilities
 Item Attributes: 1.9+ Minecraft built-in feature <b>(PARTIAL)</b><br>
