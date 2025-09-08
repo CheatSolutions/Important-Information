@@ -99,4 +99,4 @@ fast-eat:
   check_interact: true
   check_eat: true
 ```
-(There may be more or less options, please be aware)
+(There may be more, less or different options, please be aware)
