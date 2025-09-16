@@ -1390,3 +1390,52 @@ massive_command_reason: '&8[&2{prefix}&8]&c Ο λόγος είναι πολύ μ
 ```
 </details>
 
+## Lithuanian:
+<details>
+  <summary>Click to view messages.yml</summary>
+  
+```
+console_name: Konsolė
+no_permission: '&8[&2{prefix}&8]&c Neturite leidimo atlikti šį veiksmą.'
+player_not_found_message: '&8[&2{prefix}&8]&c Žaidėjas nerastas.'
+config_reload: '&8[&2{prefix}&8]&e Konfigūracija sėkmingai perkrauta.'
+panic_mode_enable: '&8[&2{prefix}&8]&a Įjungtas panikos režimas, visi tikrinimai nustatyti į tylųjį režimą ir nebaus žaidėjų.'
+panic_mode_disable: '&8[&2{prefix}&8]&c Panikos režimas išjungtas, visi tikrinimai veiks pagal konfigūracijos nustatymus.'
+kick_reason: '&c {reason}'
+kick_broadcast_message: '&8[&2{prefix}&8]&c Žaidėjas {player}&7 buvo išmestas dėl &4{reason}'
+player_ip_limit_kick_message: '&8[&2{prefix}&8]&c Pasiektas jūsų IP žaidėjų limitas.'
+player_violation_reset_message: '&8[&2{prefix}&8]&a Pažeidimai sėkmingai atstatyti žaidėjui&8: &2{player}'
+player_stored_data_delete_message: '&8[&2{prefix}&8]&a Saugojimo duomenys sėkmingai ištrinti žaidėjui&8: &2{player}'
+detection_notification: '&8[&2{prefix}&8] &e{player} &7>> &c{detection:real}§8[{detection:level}§8] &7(§f{info}§7)'
+check_stored_data_delete_message: '&8[&2{prefix}&8]&a Saugojimo duomenys sėkmingai ištrinti tikrinimui&8: &2{check}'
+check_enable_message: '&8[&2{prefix}&8] &a Įjungėte tikrinimą&8:&7 {detection}'
+check_disable_message: '&8[&2{prefix}&8] &c Išjungėte tikrinimą&8:&7 {detection}'
+check_silent_disable_message: '&8[&2{prefix}&8] &a Įjungėte prevencijas tikrinimui&8:&7 {detection}'
+check_silent_enable_message: '&8[&2{prefix}&8] &c Išjungėte prevencijas tikrinimui&8:&7 {detection}'
+check_punishment_enable_message: '&8[&2{prefix}&8] &a Įjungėte bausmes tikrinimui&8:&7 {detection}'
+check_punishment_disable_message: '&8[&2{prefix}&8] &c Išjungėte bausmes tikrinimui&8:&7 {detection}'
+non_existing_check: '&8[&2{prefix}&8] &c Šis tikrinimas neegzistuoja.'
+bypass_message: '&8[&2{prefix}&8] &c{player} &7dabar apeina tikrinimą &4{detection} &7laikui: &e{time} &7sek.'
+warning_message: '&c {reason}'
+warning_feedback_message: '&8[&2{prefix}&8]&7 Įspėjote &c{player} &7dėl&8: &4{reason}'
+verbose_enable: '&8[&2{prefix}&8] &a Įjungėte išsamią informaciją.'
+verbose_disable: '&8[&2{prefix}&8] &c Išjungėte išsamią informaciją.'
+notifications_enable: '&8[&2{prefix}&8] &a Įjungėte pranešimus.'
+notifications_modified: '&8[&2{prefix}&8] &e Pakeitėte pranešimus.'
+notifications_disable: '&8[&2{prefix}&8] &c Išjungėte pranešimus.'
+awareness_notification: '&8[&2{prefix} Pranešimas&8]&a {info}'
+wave_start_message: '&8[&2{prefix}&8]&c Banga prasideda.'
+wave_end_message: '&8[&2{prefix}&8]&c Banga baigėsi, atlikta iš viso {total} veiksmo(ai).'
+wave_clear_message: '&8[&2{prefix}&8]&c Banga išvalyta.'
+wave_add_message: '&8[&2{prefix}&8]&a {player} buvo pridėtas į bangą.'
+wave_remove_message: '&8[&2{prefix}&8]&c {player} buvo pašalintas iš bangos.'
+full_wave_list: '&8[&2{prefix}&8]&c Bangos sąrašas pilnas.'
+wave_not_added_message: '&8[&2{prefix}&8]&c {player} nepridėtas į bangą.'
+unknown_command: '&f Nežinoma komanda. Įveskite "/help" pagalbai.'
+failed_command: '&8[&2{prefix}&8]&c Komanda nepavyko ({command}). Patikrinkite argumentus ir bandykite dar kartą.'
+successful_command: '&8[&2{prefix}&8]&a Komanda sėkminga.'
+massive_command_reason: '&8[&2{prefix}&8]&c Priežastis yra per ilga.'
+```
+</details>
+
+
