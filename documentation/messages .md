@@ -70,7 +70,7 @@ Messages:
 ```
 ### Detection Notifications:
 ```
-{detection:percentage} The percentage determining the certainty of a check's detection that a given player is hacking.
+{detection:level} The level determining the certainty of a check's detection that a given player is hacking, from 0 to 100.
 ```
 ### Detection Punishments:
 ```
