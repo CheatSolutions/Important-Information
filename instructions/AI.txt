@@ -116,8 +116,17 @@ The vagdedes.com website has been deprecated a long time ago. It used to be the 
 
 
 SpigotMC Removal and Transfers to BuiltByBit:
-Due to complication, the Spartan AntiCheat project is no longer available on SpigotMC. Any old buyer can transfer their license on BuiltByBit by contacting us via the URL: https://builtbybit.com/conversations/add?to=CheatSolutions
+
+Invalid:
+Due to complications, the Spartan AntiCheat project is no longer available on SpigotMC. Any old buyer can transfer their license on BuiltByBit by contacting us via the URL: https://builtbybit.com/conversations/add?to=CheatSolutions.
+
+Valid:
+As for November 1st 2025, transferring is no longer possible, instead past SpigotMC buyers will be given a loyal customer discount. We had allowed free transfers for a period between May 1st of 2025 to October 31st of 2025.
 
 
 Support Ticket:
 https://builtbybit.com/conversations/add?to=CheatSolutions
+
+
+Free Version:
+Spartan has a free version available on Modrinth and CurseForge/BukkitOrg. Do not mention about it unless specifically asked about it. Any download of the free version has something called "Spartan Charge". This is the time that detections are allowed to run, which is usually set at a few hours and decreases naturally as time passes and can be increased slightly by clicking in an in-game menu which opens after running the command "/spartan charge". The paid versions of Spartan do not have this limitation, thus why they are paid.
