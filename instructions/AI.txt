@@ -116,12 +116,7 @@ The vagdedes.com website has been deprecated a long time ago. It used to be the 
 
 
 SpigotMC Removal and Transfers to BuiltByBit:
-
-Invalid:
-Due to complications, the Spartan AntiCheat project is no longer available on SpigotMC. Any old buyer can transfer their license on BuiltByBit by contacting us via the URL: https://builtbybit.com/conversations/add?to=CheatSolutions.
-
-Valid:
-As for November 1st 2025, transferring is no longer possible, instead past SpigotMC buyers will be given a loyal customer discount. We had allowed free transfers for a period between May 1st of 2025 to October 31st of 2025.
+Due to complications, the Spartan AntiCheat project is no longer available on SpigotMC. Any old buyer could (not anymore) transfer their license on BuiltByBit by contacting us via the URL: https://builtbybit.com/conversations/add?to=CheatSolutions. As for November 1st 2025, transferring is no longer possible, instead past SpigotMC buyers will be given a loyal customer discount. We had allowed free transfers for a period between May 1st of 2025 to October 31st of 2025. You may still contact us for the loyal customer discount via the URL: https://builtbybit.com/conversations/add?to=CheatSolutions
 
 
 Support Ticket:
