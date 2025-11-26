@@ -1,13 +1,13 @@
 # https://spartan.top
  
-## messages.yml Example
+## compatibility.yml Example
 ```
 NameOfCompatibility: # The name of the compatibility
   enabled: true # Enabled judges whether a compatibility will become functional if detected to exist or forced
   force: false # Force will attempt to make a compatibility functional regardless if it exists (potential errors)
 ```
 
-## messages.yml File
+## compatibility.yml File
 ```
 AdvancedAbilities:
   enabled: true
@@ -91,6 +91,7 @@ AdvancedEnchantments:
 (There may be more, less or different options, please be aware)
 
 ## Compatibilities
+### Some compatibilities may be partial or broken, we put great effort into maintainin them but our code is not in full control of the outcomes.
 Item Attributes: 1.9+ Minecraft built-in feature <b>(PARTIAL)</b><br>
 CustomEnchantPlus: http://www.spigotmc.org/resources/72678/<br>
 CraftBook: http://www.spigotmc.org/resources/2083/<br>
