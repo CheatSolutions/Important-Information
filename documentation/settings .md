@@ -1,6 +1,6 @@
 # https://spartan.top
 
-## settings.yml File
+## settings.yml Example
 ```
 Punishments: 
   broadcast_on_punishment: true # Let everyone know when someone is punished via the chat
@@ -32,3 +32,4 @@ Discord:
   webhook_hex_color: 4caf50
   checks_webhook_url: ''
 ```
+(There may be more, less or different options, please be aware)
