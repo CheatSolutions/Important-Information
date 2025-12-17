@@ -40,11 +40,9 @@ MagicSpells: http://dev.bukkit.org/projects/magicspells/<br>
 Vehicles: https://www.spigotmc.org/resources/12446/<br>
 Factions: https://www.spigotmc.org/resources/1900/<br>
 Oraxen: https://www.spigotmc.org/resources/72448/<br>
-ShopGUI+/ShopGUIPlus: https://www.spigotmc.org/resources/6515/<br>
-DeluxeMenu / DeluxeMenus: https://www.spigotmc.org/resources/11734/<br>
+ShopGUI+: https://www.spigotmc.org/resources/6515/<br>
+DeluxeMenus: https://www.spigotmc.org/resources/11734/<br>
 MinigameMaker: http://www.spigotmc.org/resources/54505/ <b>(THIRD-PARTY)</b><br>
-RunesEnchant: http://www.spigotmc.org/resources/19363/ <b>(THIRD-PARTY)</b><br>
-CrazyEnchantments: http://www.spigotmc.org/resources/16470/ <b>(THIRD-PARTY)</b><br>
 DeluxeCombat: http://www.spigotmc.org/resources/63970/ <b>(THIRD-PARTY)</b><br>
 AntiCheat Replay: https://www.spigotmc.org/resources/97845/ <b>(THIRD-PARTY)</b><br>
 
@@ -57,6 +55,6 @@ Modifications that affect block interaction out of a player's line of sight. <b>
 Irregular/Non-vanilla/Unknown Minecraft enchantments. <b>(Ex: Unsupported Enchantment Plugins)</b><br>
 1.7-1.12.2 forward compatibility to 1.13+ <b>(Ex. Player Swimming, Replaced Blocks, Different Hit-Boxes)</b><br>
 Irregular amounts of clicks caused by special mouse features. <b>(Ex. Butterfly Clicking, Jitter Clicking)</b><br>
-Screenshot functionality spam causing quick & temporary freezing. <b>(Ex. Taking many screenshots at a similar time)</b><br>
-Using Minecraft’s control options in irregular ways. <b>(Ex. Assigning movement control to mouse for faster movement)</b>
-Compatibilities created by third parties and not us
+Screenshot functionality spam causing quick & temporary freezing. <b>(Ex. Taking many screenshots rapidly)</b><br>
+Using Minecraft’s control options in irregular ways. <b>(Ex. Assigning movement control to mouse for faster movement)</b><br>
+Compatibilities created by third parties or partial  compatibilities created by us <b>(Ex. View lists in this documentation file)</b>
