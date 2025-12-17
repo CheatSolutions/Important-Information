@@ -7,93 +7,9 @@ NameOfCompatibility: # The name of the compatibility
   force: false # Force will attempt to make a compatibility functional regardless if it exists (potential errors)
 ```
 
-## compatibility.yml File
-```
-AdvancedAbilities:
-  enabled: true
-  force: false
-CrackShot:
-  enabled: true
-  force: false
-CrackShotPlus:
-  enabled: true
-  force: false
-CraftBook:
-  enabled: true
-  force: false
-MagicSpells:
-  enabled: true
-  force: false
-ProtocolLib:
-  enabled: true
-  force: false
-mcMMO:
-  enabled: true
-  force: false
-TreeFeller:
-  enabled: true
-  force: false
-VeinMiner:
-  enabled: true
-  force: false
-GrapplingHook:
-  enabled: true
-  force: false
-MineBomb:
-  enabled: true
-  force: false
-SuperPickaxe:
-  enabled: true
-  force: false
-RealDualWield:
-  enabled: true
-  force: false
-MythicMobs:
-  enabled: true
-  force: false
-ItemAttributes:
-  enabled: true
-  force: false
-PrinterMode:
-  enabled: true
-  force: false
-Vehicles:
-  enabled: true
-  force: false
-MineTinker:
-  enabled: true
-  force: false
-WildTools:
-  enabled: false
-  force: false
-AureliumSkills:
-  enabled: true
-  force: false
-CustomEncahntsPlus:
-  enabled: true
-  force: false
-EcoEnchants:
-  enabled: true
-  force: false
-ItemsAdder:
-  enabled: true
-  force: false
-RampenDrills:
-  enabled: true
-  force: false
-ProjectKorra:
-  enabled: true
-  force: false
-AdvancedEnchantments:
-  enabled: true
-  force: false
-```
-(There may be more, less or different options, please be aware)
-
 ## Compatibilities
 ### Some compatibilities may be partial or broken, we put great effort into maintainin them but our code is not in full control of the outcomes.
 Item Attributes: 1.9+ Minecraft built-in feature <b>(PARTIAL)</b><br>
-CustomEnchantPlus: http://www.spigotmc.org/resources/72678/<br>
 CraftBook: http://www.spigotmc.org/resources/2083/<br>
 CrackShot: http://dev.bukkit.org/projects/crackshot/<br>
 TreeFeller: http://www.spigotmc.org/resources/20385/<br>
@@ -131,7 +47,6 @@ RunesEnchant: http://www.spigotmc.org/resources/19363/ <b>(THIRD-PARTY)</b><br>
 CrazyEnchantments: http://www.spigotmc.org/resources/16470/ <b>(THIRD-PARTY)</b><br>
 DeluxeCombat: http://www.spigotmc.org/resources/63970/ <b>(THIRD-PARTY)</b><br>
 AntiCheat Replay: https://www.spigotmc.org/resources/97845/ <b>(THIRD-PARTY)</b><br>
-AdvancedEnchantments: https://www.spigotmc.org/resources/43058/ <b>(THIRD-PARTY)</b>
 
 ### Incompatibilities
 Using server forks other than Spigot, Paper, Purpur & Folia. <b>(Ask the development team for specifics)</b><br>
@@ -144,3 +59,4 @@ Irregular/Non-vanilla/Unknown Minecraft enchantments. <b>(Ex: Unsupported Enchan
 Irregular amounts of clicks caused by special mouse features. <b>(Ex. Butterfly Clicking, Jitter Clicking)</b><br>
 Screenshot functionality spam causing quick & temporary freezing. <b>(Ex. Taking many screenshots at a similar time)</b><br>
 Using Minecraft’s control options in irregular ways. <b>(Ex. Assigning movement control to mouse for faster movement)</b>
+Compatibilities created by third parties and not us
