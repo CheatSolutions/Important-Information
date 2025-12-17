@@ -60,11 +60,11 @@ Permission: spartan.condition
 
 
 ## Additional Permissions
-spartan.bypass allows you to bypass all checks. (USE THE settings.yml op_bypass OPTION WHEN OP)
-spartan.bypass.(check) allows you to bypass a certain check.
-spartan.admin, spartan.* gives you all permissions except the bypass ones. (BE CAREFUL WHEN OP)
-spartan.bedrock considers a player as a Bedrock client instead of Java client. (BE CAREFUL WHEN OP)
-spartan.punishment allows you to bypass the configured punishments of all checks.
+spartan.bypass allows you to bypass all checks. (USE THE settings.yml op_bypass OPTION WHEN OP) \
+spartan.bypass.(check) allows you to bypass a certain check. \
+spartan.admin, spartan.* gives you all permissions except the bypass ones. (BE CAREFUL WHEN OP) \
+spartan.bedrock considers a player as a Bedrock client instead of Java client. (BE CAREFUL WHEN OP) \
+spartan.punishment allows you to bypass the configured punishments of all checks. \
 
 
 ## Hovering Above Commands
