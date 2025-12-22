@@ -72,7 +72,7 @@ Spartan supports interactive commands. When you hover above a command, Spartan w
 
 
 ## Pressing TAB
-Spartan supports command auto-complete. To trigger it, type /spartan and press the button TAB on your keyboard. This functionality takes part as a list of recommendations to save you time.
+Spartan supports command auto-complete. To trigger it, type "/spartan", optionally leave a space and press the button TAB on your keyboard. This functionality takes part as a list of recommendations to continue the command and save you time.
 
 
 ## Permissions that judge Staff Rank / Ranks
