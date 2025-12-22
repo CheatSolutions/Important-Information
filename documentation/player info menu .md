@@ -1,5 +1,5 @@
 # https://spartan.top
-## Below is a list of reasons you will see when checking a player using the “Player Info” inventory menu. To use this inventory menu, execute the command “/spartan info” to check yourself and “/spartan info playerName” to check someone else.
+## Below is a list of reasons you may read when checking a player using the “Player Info” inventory menu. You may find the following information when hovering above items in the inventory menu, essentially in the item's description. To use this inventory menu, execute the command “/spartan info” to check yourself and “/spartan info playerName” to check someone else.
 
 ### Player has permission bypass:
 When a player has the permission spartan.bypass they won’t be checked by any check. Additionally, when a player has the permission spartan.bypass.checkName they won’t be checked by the specified check.
