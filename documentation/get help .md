@@ -16,7 +16,7 @@ Step 4: Attach the screenshots as files or URLs to the ticket you are about to s
 
 ## Hack Bypass / Check Testing
 ```
-Step 1: Run the command ”/spartan info (playerName)”, it should mention Checking, Silent Checking or nothing when you hover above check items. If it says anything else, you can find out why via the URL https://bit.ly/3Mbpb1m
+Step 1: Run the command ”/spartan info (playerName)”, it should mention Checking, Silent Checking or nothing when you hover above check items. If it says anything else, you can find out why via the URL: https://github.com/CheatSolutions/Important-Information/blob/main/documentation/player%20info%20menu%20.md
 ```
 ```
 Step 2: Run the command “/spartan verbose” to enable non-important notifications so you do not miss crucial information, this is always recommended when testing.
