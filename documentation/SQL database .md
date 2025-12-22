@@ -1,6 +1,6 @@
 # https://spartan.top
 
-## sql.yml File
+## sql.yml Example
 ```
 host: 127.0.0.1
 user: db_247
