@@ -41,7 +41,7 @@ Elytra Fly/Speed (Very basic*)
 Entity (Very basic*)
 ```
 ###### * = Very basic means the check/detection is unable to recognize most patterns, usually is there for experimental, old or unmaintained code
-###### Additionally: (1) For many checks/detections to work, the ProtocolLib plugin must be properly installed. (2) For geysermc/bedrock detections to work, the Floodgate plugin must be properly installed or a prefix to all geysermc/bedrock players must be applied or a specific Spartan permission must be applied to all geysermc/bedrock players. (3) The geysermc/bedrock checks/detections are not as advanced or as many as the Java checks/detections.
+###### Additionally: (1) For many checks/detections to work, the ProtocolLib plugin must be properly installed. (2) For geysermc/bedrock checks/detections to work, the Floodgate plugin must be properly installed OR a prefix to all geysermc/bedrock players must be applied OR a specific Spartan permission must be applied to all geysermc/bedrock players. (3) The geysermc/bedrock checks/detections are not as advanced OR as many as the Java checks/detections.
 
 ## World
 ```
