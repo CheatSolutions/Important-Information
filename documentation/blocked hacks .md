@@ -3,11 +3,11 @@
 
 ## Combat
 ```
-Aura
+Kill Aura
 Aimbot
 FightBot
 ForceField
-AimAssist
+Aim Assist
 FastBow
 AntiKnockback/Velocity
 Reach
