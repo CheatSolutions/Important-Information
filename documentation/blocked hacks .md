@@ -12,7 +12,7 @@ FastBow
 AntiKnockback/Velocity
 Reach
 Criticals
-AutoClicker
+AutoClicker (Java only)
 BackTrack
 ```
 
@@ -29,13 +29,13 @@ NoFall
 Spider/WallClimb
 Jesus/WaterWalk
 FastLadder/FastClimb
-Timer
-Blink
+Timer (Java only)
+Blink (Java only)
 Step
 Derp/NoHead
 FastEat
-Food Sprint
-Ground Spoof
+Food Sprint (Java only)
+Ground Spoof (Java only)
 Movement Spoof
 Elytra Fly/Speed (Very basic*)
 Entity (Very basic*)
@@ -48,7 +48,7 @@ Entity (Very basic*)
 FastPlace
 BlockReach
 Liquids
-Scaffold
+Scaffold (Java only)
 Tower
 X-Ray (Statistics-based)
 GhostHand
