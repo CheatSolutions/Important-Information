@@ -25,7 +25,7 @@ Step 2: Run the command “/spartan verbose” to enable non-important notificat
 Step 3: Run the command ”/spartan notifications 0” to enable low frequency notifications so you are notified about all detections, this is always recommended when testing.
 ```
 ```
-Step 4: If all previous steps did not help identify hacks listed in the URL https://bit.ly/3wk6nEz record a short video/GIF that you will attach as file or URL to the ticket you are about to send us.
+Step 4: If all previous steps did not help identify hacks listed in the URL https://bit.ly/4bylEqK record a short video/GIF that you will attach as file or URL to the ticket you are about to send us.
 ```
 
 ## C. Console Error
