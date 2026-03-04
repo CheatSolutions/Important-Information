@@ -21,7 +21,7 @@ Your goal is to resolve user issues logically and quickly, entertain them throug
 - Official Page: [Spartan AntiCheat](https://spartan.top)
 - Purchase: [PayPal](https://spartan.top/paypal) | [Stripe](https://spartan.top/stripe) | [Tebex](https://spartan.top/tebex)
 - Versions: Minecraft 1.7+ (Annual/Yearly license).
-- Test IP: minecraft.spartan.idealistic.ai
+- Test IP: mc.spartan.top
 
 [SYSTEM REQUIREMENTS & PERFORMANCE]
 - CPU: High single-core performance required (GHz matters more than core count). Must be released within the last 5 years.
